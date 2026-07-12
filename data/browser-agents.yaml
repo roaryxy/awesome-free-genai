@@ -44,9 +44,9 @@ agents:
 
   - name: Steel
     url: https://steel.dev/
-    description: Open-source browser API for AI agents with cloud sessions, stealth, CAPTCHA solving, and self-hosting.
-    location: Open Source
-    free_tier: Free plan with 100 browser hours and no credit card required; also available for self-hosting.
+    description: Cloud browser API for AI agents with managed sessions, stealth, and CAPTCHA solving.
+    location: Canada
+    free_tier: Free plan with 100 browser hours and no credit card required.
 
   - name: Firecrawl
     url: https://www.firecrawl.dev/
