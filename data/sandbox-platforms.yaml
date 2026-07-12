@@ -6,11 +6,35 @@ icon: "🧪"
 description: Secure cloud sandboxes and execution environments for AI agents to run code, tools, and workloads.
 
 agents:
+  - name: Archil
+    url: https://archil.com/
+    description: Serverless sandbox and file-system infrastructure for AI agents to run Bash, Python, and Node tools against synchronized data.
+    location: USA
+    free_tier: Free plan available for getting started with serverless sandboxes and storage.
+
+  - name: Beam
+    url: https://www.beam.cloud/
+    description: On-demand AI compute platform for running isolated sandboxes, task queues, and model inference workloads.
+    location: USA
+    free_tier: Includes $30 in free compute credits every month, with up to 1 TB of storage included at no charge.
+
   - name: Blaxel
     url: https://app.blaxel.ai/
     description: Persistent sandbox platform for AI agents with secure sandboxes, co-hosted agents, shared storage, and low-latency resume.
     location: USA
     free_tier: Free plan with up to $200 in credits to get started and no base subscription before usage charges apply.
+
+  - name: CodeSandbox
+    url: https://codesandbox.io/
+    description: Cloud development platform with isolated development environments and an SDK for programmatically running AI-generated code.
+    location: Netherlands
+    free_tier: Free Build plan for personal development environments with monthly VM credits and public repositories.
+
+  - name: CreateOS Sandbox
+    url: https://createos.sh/products/sandbox
+    description: Firecracker microVM sandbox platform for AI agents with private networking, pause-to-zero, SDK, CLI, and MCP access.
+    location: India
+    free_tier: Includes 500 free credits for getting started.
 
   - name: Daytona
     url: https://www.daytona.io/
@@ -18,11 +42,29 @@ agents:
     location: USA
     free_tier: Free tier includes $200 in compute credits and 5 GB of storage before pay-as-you-go usage.
 
+  - name: DeClaw
+    url: https://declaw.ai/
+    description: Secure Firecracker microVM runtime for AI agents with policy enforcement, guardrails, credential controls, and observability.
+    location: USA
+    free_tier: Includes $300 in free credits for getting started.
+
+  - name: E2B
+    url: https://e2b.dev/
+    description: Secure cloud sandbox platform that gives AI agents isolated computers and tools for code execution and real-world tasks.
+    location: USA
+    free_tier: Free Hobby tier with a one-time $100 of usage credits, up to 1-hour sandbox sessions, and up to 20 concurrently running sandboxes.
+
   - name: Freestyle
     url: https://dash.freestyle.sh/
     description: Sandbox platform for coding agents with Linux VMs, runs, deployments, Git-backed workflows, and fast pause-resume infrastructure.
     location: USA
     free_tier: Free plan includes up to 10 concurrent VMs, 20 free vCPU-hours/day, 40 GiB memory-hours/day, 16,800 GiB storage-hours/day, 500 runs/month, and 5 managed domains.
+
+  - name: Hopx
+    url: https://hopx.ai/
+    description: Secure Firecracker microVM sandboxes for running untrusted code, AI agents, desktop automation, and MCP servers.
+    location: Romania
+    free_tier: Includes $200 in free credits with no credit card required.
 
   - name: InstaVM
     url: https://dashboard.instavm.io/
@@ -30,14 +72,32 @@ agents:
     location: USA
     free_tier: Free tier includes $50 in credits, 10 GB of included volume storage, 5 concurrent VMs, 100 browser sessions per month, and no credit card required.
 
+  - name: Isorun
+    url: https://app.isorun.ai/
+    description: Cloud sandbox platform for launching isolated environments from Docker images and executing commands through an API.
+    location: Germany
+    free_tier: Free signup credits are loaded during onboarding for trying the sandbox service.
+
+  - name: Lightning AI
+    url: https://lightning.ai/
+    description: Cloud AI development platform with persistent studios, managed compute, collaborative workspaces, and GPU access.
+    location: USA
+    free_tier: Free individual plan includes monthly credits for running CPU and GPU workloads in Lightning Studios.
+
   - name: Northflank
     url: https://app.northflank.com/
     description: Cloud platform with sandboxes, deployments, jobs, databases, and GPU workloads on Northflank Cloud or your own cloud.
     location: UK
     free_tier: Free project limits include 0.2 vCPU, 512 MB RAM, about 6 GB storage, 1 replica/instance, up to 2 services and 2 jobs, and 1 addon.
 
-  - name: E2B
-    url: https://e2b.dev/
-    description: Secure cloud sandbox platform that gives AI agents isolated computers and tools for code execution and real-world tasks.
+  - name: Superserve
+    url: https://www.superserve.ai/
+    description: Open-source sandbox platform for long-running AI agents with durable Firecracker VMs, pause-resume, and persistent storage.
+    location: Open Source
+    free_tier: Free to start with no credit card required, followed by per-second usage billing.
+
+  - name: Tensorlake
+    url: https://www.tensorlake.ai/
+    description: Firecracker microVM sandbox infrastructure for AI agents with programmatic execution, tools, and document-processing APIs.
     location: USA
-    free_tier: Free Hobby tier with a one-time $100 of usage credits, up to 1-hour sandbox sessions, and up to 20 concurrently running sandboxes.
+    free_tier: Free plan includes 2 concurrent sandboxes with 1 core, 1 GB RAM, 10 GB disk, and sessions up to 2 hours.
