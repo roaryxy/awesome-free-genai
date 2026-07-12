@@ -1,7 +1,7 @@
 # Awesome Free GenAI
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tools](https://img.shields.io/badge/Tools-136-blueviolet)
+![Tools](https://img.shields.io/badge/Tools-140-blueviolet)
 [![Build & Deploy](https://github.com/roaryx/awesome-free-genai/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/roaryx/awesome-free-genai/actions/workflows/build-and-deploy.yml)
 
 > A curated list of generative AI agents, applications, and infrastructure with free tiers.
@@ -97,6 +97,10 @@
 
 *Agents that autonomously navigate and interact with web browsers.*
 
+**[Anchor Browser](https://anchorbrowser.io/)** :us:
+- 📝 Cloud browser infrastructure for AI agents with browser sessions, automation tasks, proxies, and CAPTCHA bypass.
+- 🆓 Free plan with $5 monthly credits, up to 5 concurrent browsers, and 45-day data retention.
+
 **[BrowserUse](https://cloud.browser-use.com/)** :us:
 - 📝 Cloud browser automation platform for running AI agents with managed browsers, proxies, and stealth infrastructure.
 - 🆓 Free plan with 3 concurrent sessions, free browsers and proxies, 10 agent tasks per month, and advanced stealth.
@@ -117,13 +121,25 @@
 - 📝 AI-powered browser automation platform for running workflows on websites with support for CAPTCHAs, 2FA, data extraction, and form automation.
 - 🆓 Free plan with 1,000 credits per month, 1 concurrent run, webhooks, and country geo-targeting.
 
+**[Steel](https://steel.dev/)** :globe_with_meridians:
+- 📝 Cloud browser API for AI agents with managed sessions, stealth, and CAPTCHA solving.
+- 🆓 Free plan with 100 browser hours and no credit card required.
+
 **[Firecrawl](https://www.firecrawl.dev/)** :us:
 - 📝 Web data and browser interaction platform for AI agents with search, scrape, crawl, and interact APIs for live websites.
 - 🆓 Free plan with 500 one-time credits, 2 concurrent requests, and 5 free daily agent runs.
 
+**[Hyperbrowser](https://hyperbrowser.ai/)** :us:
+- 📝 Cloud browser infrastructure for AI agents and apps with browser sessions, proxies, and automation APIs.
+- 🆓 Free plan with 1,000 monthly credits and 1 concurrent browser.
+
 **[TinyFish](https://agent.tinyfish.ai/)** :us:
 - 📝 Enterprise infrastructure for AI web agents with search, fetch, browser sessions, and multi-step web automation.
 - 🆓 Free plan with 500 credits, 2 concurrent agents, 2 concurrent browser sessions, and free Search and Fetch API usage.
+
+**[Yutori](https://yutori.com/)** :us:
+- 📝 AI web agents and APIs for browser automation, multi-agent research, and ongoing web monitoring.
+- 🆓 $5 in free credits for browser automation, research, and scouting APIs.
 
 
 ## 🤖 General-Purpose Agents
