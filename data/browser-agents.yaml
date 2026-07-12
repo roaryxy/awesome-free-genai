@@ -6,6 +6,12 @@ icon: "🌐"
 description: Agents that autonomously navigate and interact with web browsers.
 
 agents:
+  - name: Anchor Browser
+    url: https://anchorbrowser.io/
+    description: Cloud browser infrastructure for AI agents with browser sessions, automation tasks, proxies, and CAPTCHA bypass.
+    location: USA
+    free_tier: Free plan with $5 monthly credits, up to 5 concurrent browsers, and 45-day data retention.
+
   - name: BrowserUse
     url: https://cloud.browser-use.com/
     description: Cloud browser automation platform for running AI agents with managed browsers, proxies, and stealth infrastructure.
@@ -36,14 +42,32 @@ agents:
     location: USA
     free_tier: Free plan with 1,000 credits per month, 1 concurrent run, webhooks, and country geo-targeting.
 
+  - name: Steel
+    url: https://steel.dev/
+    description: Cloud browser API for AI agents with managed sessions, stealth, and CAPTCHA solving.
+    location: Canada
+    free_tier: Free plan with 100 browser hours and no credit card required.
+
   - name: Firecrawl
     url: https://www.firecrawl.dev/
     description: Web data and browser interaction platform for AI agents with search, scrape, crawl, and interact APIs for live websites.
     location: USA
     free_tier: Free plan with 500 one-time credits, 2 concurrent requests, and 5 free daily agent runs.
 
+  - name: Hyperbrowser
+    url: https://hyperbrowser.ai/
+    description: Cloud browser infrastructure for AI agents and apps with browser sessions, proxies, and automation APIs.
+    location: USA
+    free_tier: Free plan with 1,000 monthly credits and 1 concurrent browser.
+
   - name: TinyFish
     url: https://agent.tinyfish.ai/
     description: Enterprise infrastructure for AI web agents with search, fetch, browser sessions, and multi-step web automation.
     location: USA
     free_tier: Free plan with 500 credits, 2 concurrent agents, 2 concurrent browser sessions, and free Search and Fetch API usage.
+
+  - name: Yutori
+    url: https://yutori.com/
+    description: AI web agents and APIs for browser automation, multi-agent research, and ongoing web monitoring.
+    location: USA
+    free_tier: $5 in free credits for browser automation, research, and scouting APIs.
