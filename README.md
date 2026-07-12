@@ -1,7 +1,7 @@
 # Awesome Free GenAI
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tools](https://img.shields.io/badge/Tools-126-blueviolet)
+![Tools](https://img.shields.io/badge/Tools-136-blueviolet)
 [![Build & Deploy](https://github.com/roaryx/awesome-free-genai/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/roaryx/awesome-free-genai/actions/workflows/build-and-deploy.yml)
 
 > A curated list of generative AI agents, applications, and infrastructure with free tiers.
@@ -257,29 +257,69 @@
 
 *Secure cloud sandboxes and execution environments for AI agents to run code, tools, and workloads.*
 
+**[Archil](https://archil.com/)** :us:
+- 📝 Serverless sandbox and file-system infrastructure for AI agents to run Bash, Python, and Node tools against synchronized data.
+- 🆓 Free plan available for getting started with serverless sandboxes and storage.
+
+**[Beam](https://www.beam.cloud/)** :us:
+- 📝 On-demand AI compute platform for running isolated sandboxes, task queues, and model inference workloads.
+- 🆓 Includes $30 in free compute credits every month, with up to 1 TB of storage included at no charge.
+
 **[Blaxel](https://app.blaxel.ai/)** :us:
 - 📝 Persistent sandbox platform for AI agents with secure sandboxes, co-hosted agents, shared storage, and low-latency resume.
 - 🆓 Free plan with up to $200 in credits to get started and no base subscription before usage charges apply.
+
+**[CodeSandbox](https://codesandbox.io/)** :globe_with_meridians:
+- 📝 Cloud development platform with isolated development environments and an SDK for programmatically running AI-generated code.
+- 🆓 Free Build plan for personal development environments with monthly VM credits and public repositories.
+
+**[CreateOS Sandbox](https://createos.sh/products/sandbox)** :globe_with_meridians:
+- 📝 Firecracker microVM sandbox platform for AI agents with private networking, pause-to-zero, SDK, CLI, and MCP access.
+- 🆓 Includes 500 free credits for getting started.
 
 **[Daytona](https://www.daytona.io/)** :us:
 - 📝 Secure sandbox infrastructure for AI agents with isolated workspaces, code execution, and browser automation in a cloud development environment.
 - 🆓 Free tier includes $200 in compute credits and 5 GB of storage before pay-as-you-go usage.
 
+**[DeClaw](https://declaw.ai/)** :us:
+- 📝 Secure Firecracker microVM runtime for AI agents with policy enforcement, guardrails, credential controls, and observability.
+- 🆓 Includes $300 in free credits for getting started.
+
+**[E2B](https://e2b.dev/)** :us:
+- 📝 Secure cloud sandbox platform that gives AI agents isolated computers and tools for code execution and real-world tasks.
+- 🆓 Free Hobby tier with a one-time $100 of usage credits, up to 1-hour sandbox sessions, and up to 20 concurrently running sandboxes.
+
 **[Freestyle](https://dash.freestyle.sh/)** :us:
 - 📝 Sandbox platform for coding agents with Linux VMs, runs, deployments, Git-backed workflows, and fast pause-resume infrastructure.
 - 🆓 Free plan includes up to 10 concurrent VMs, 20 free vCPU-hours/day, 40 GiB memory-hours/day, 16,800 GiB storage-hours/day, 500 runs/month, and 5 managed domains.
+
+**[Hopx](https://hopx.ai/)** :globe_with_meridians:
+- 📝 Secure Firecracker microVM sandboxes for running untrusted code, AI agents, desktop automation, and MCP servers.
+- 🆓 Includes $200 in free credits with no credit card required.
 
 **[InstaVM](https://dashboard.instavm.io/)** :us:
 - 📝 Production sandbox platform for AI agents with isolated Firecracker microVMs, secure code execution, browser sessions, and runtime controls.
 - 🆓 Free tier includes $50 in credits, 10 GB of included volume storage, 5 concurrent VMs, 100 browser sessions per month, and no credit card required.
 
+**[Isorun](https://app.isorun.ai/)** :globe_with_meridians:
+- 📝 Cloud sandbox platform for launching isolated environments from Docker images and executing commands through an API.
+- 🆓 Free signup credits are loaded during onboarding for trying the sandbox service.
+
+**[Lightning AI](https://lightning.ai/)** :us:
+- 📝 Cloud AI development platform with persistent studios, managed compute, collaborative workspaces, and GPU access.
+- 🆓 Free individual plan includes monthly credits for running CPU and GPU workloads in Lightning Studios.
+
 **[Northflank](https://app.northflank.com/)** :globe_with_meridians:
 - 📝 Cloud platform with sandboxes, deployments, jobs, databases, and GPU workloads on Northflank Cloud or your own cloud.
 - 🆓 Free project limits include 0.2 vCPU, 512 MB RAM, about 6 GB storage, 1 replica/instance, up to 2 services and 2 jobs, and 1 addon.
 
-**[E2B](https://e2b.dev/)** :us:
-- 📝 Secure cloud sandbox platform that gives AI agents isolated computers and tools for code execution and real-world tasks.
-- 🆓 Free Hobby tier with a one-time $100 of usage credits, up to 1-hour sandbox sessions, and up to 20 concurrently running sandboxes.
+**[Superserve](https://www.superserve.ai/)** :globe_with_meridians:
+- 📝 Open-source sandbox platform for long-running AI agents with durable Firecracker VMs, pause-resume, and persistent storage.
+- 🆓 Free to start with no credit card required, followed by per-second usage billing.
+
+**[Tensorlake](https://www.tensorlake.ai/)** :us:
+- 📝 Firecracker microVM sandbox infrastructure for AI agents with programmatic execution, tools, and document-processing APIs.
+- 🆓 Free plan includes 2 concurrent sandboxes with 1 core, 1 GB RAM, 10 GB disk, and sessions up to 2 hours.
 
 
 ## 🛠️ Full Stack Agents
