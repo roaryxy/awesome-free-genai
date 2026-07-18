@@ -113,3 +113,9 @@ agents:
     description: Privacy-first AI assistant and API for text, image, audio, video, and character generation using open-source models.
     location: USA
     free_tier: Free plan with 10 text prompts and 15 image prompts per day; mature filter cannot be disabled.
+
+  - name: Basalt Chat
+    url: https://basaltlabs.org/chat
+    description: Chat interface for Monolith, Basalt's open foundation model for reasoning, math, science, and long-context analysis.
+    location: China
+    free_tier: Free chat interface with email login.
