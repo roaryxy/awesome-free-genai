@@ -1,7 +1,7 @@
 # Awesome Free GenAI
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tools](https://img.shields.io/badge/Tools-140-blueviolet)
+![Tools](https://img.shields.io/badge/Tools-143-blueviolet)
 [![Build & Deploy](https://github.com/roaryx/awesome-free-genai/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/roaryx/awesome-free-genai/actions/workflows/build-and-deploy.yml)
 
 > A curated list of generative AI agents, applications, and infrastructure with free tiers.
@@ -54,6 +54,10 @@
 **[Google Antigravity](https://antigravity.google)** :us:
 - 📝 AI IDE by Google with cross-surface agents, tab autocompletion, and natural language code commands for the agent-first era.
 - 🆓 Free Individual plan with unlimited tab completions and unlimited command requests.
+
+**[Muse Code](https://developer.meta.com/ai/products/muse-code/)** :us:
+- 📝 Terminal coding agent powered by Muse Spark 1.2 with persistent background agents for repository-scale tasks.
+- 🆓 New Meta Model API accounts include $20 in free credits.
 
 
 ## 🔍 Research Agents
@@ -623,6 +627,14 @@
 **[Kollab](https://kollab.im/pricing)** :globe_with_meridians:
 - 📝 AI personal assistant and collaboration platform with shared workspace and pricing overview for team usage.
 - 🆓 Free tier available with 2000 credits/month .
+
+**[Muse](https://muse.ai/)** :us:
+- 📝 Personal AI agent that completes tasks across connected apps and turns long-term goals into action plans.
+- 🆓 Free for most uses, with subscription plans for higher usage.
+
+**[Instinct](https://instinct.com/)** :us:
+- 📝 Personal AI assistant that uses connected devices and apps to handle tasks through calls and text messages.
+- 🆓 Private access through a waitlist or member invitation, with no public pricing listed.
 
 
 ## ✅ Task Agents
