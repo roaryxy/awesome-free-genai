@@ -42,3 +42,8 @@ agents:
     location: USA
     free_tier: Free Individual plan with unlimited tab completions and unlimited command requests.
 
+  - name: Muse Code
+    url: https://developer.meta.com/ai/products/muse-code/
+    description: Terminal coding agent powered by Muse Spark 1.2 with persistent background agents for repository-scale tasks.
+    location: USA
+    free_tier: New Meta Model API accounts include $20 in free credits.

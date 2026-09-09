@@ -107,3 +107,15 @@ agents:
     description: AI personal assistant and collaboration platform with shared workspace and pricing overview for team usage.
     location: Hong Kong
     free_tier: Free tier available with 2000 credits/month .
+
+  - name: Muse
+    url: https://muse.ai/
+    description: Personal AI agent that completes tasks across connected apps and turns long-term goals into action plans.
+    location: USA
+    free_tier: Free for most uses, with subscription plans for higher usage.
+
+  - name: Instinct
+    url: https://instinct.com/
+    description: Personal AI assistant that uses connected devices and apps to handle tasks through calls and text messages.
+    location: USA
+    free_tier: Private access through a waitlist or member invitation, with no public pricing listed.
