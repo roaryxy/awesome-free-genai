@@ -6,6 +6,12 @@ icon: "🔍"
 description: Agents that autonomously research, analyze, and synthesize information.
 
 agents:
+  - name: Atria API
+    url: https://api.atria-asi.ai/
+    description: Model API for research analysis, code development, and multi-step agent tasks with a 256K context window.
+    location: China
+    free_tier: Free preview access with account-level rate and usage limits.
+
   - name: Gemini Deep Research
     url: https://gemini.google.com
     description: Google's agent for multi-step web research that generates detailed reports with citations.
@@ -53,3 +59,9 @@ agents:
     description: AI web research platform for deep research, web search, extraction, monitoring, and dataset creation with cited, structured outputs.
     location: USA
     free_tier: Free to start with up to 16,000 requests across Parallel's APIs and playgrounds.
+
+  - name: Intern InkStone
+    url: https://discovery.intern-ai.org.cn/
+    description: AI research platform for deep research, literature discovery, and research report generation.
+    location: China
+    free_tier: Free web access with account-based usage limits.
