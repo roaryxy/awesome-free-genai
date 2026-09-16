@@ -1,7 +1,7 @@
 # Awesome Free GenAI
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tools](https://img.shields.io/badge/Tools-143-blueviolet)
+![Tools](https://img.shields.io/badge/Tools-145-blueviolet)
 [![Build & Deploy](https://github.com/roaryx/awesome-free-genai/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/roaryx/awesome-free-genai/actions/workflows/build-and-deploy.yml)
 
 > A curated list of generative AI agents, applications, and infrastructure with free tiers.
@@ -64,6 +64,10 @@
 
 *Agents that autonomously research, analyze, and synthesize information.*
 
+**[Atria API](https://api.atria-asi.ai/)** :cn:
+- 📝 Model API for research analysis, code development, and multi-step agent tasks with a 256K context window.
+- 🆓 Free preview access with account-level rate and usage limits.
+
 **[Gemini Deep Research](https://gemini.google.com)** :us:
 - 📝 Google's agent for multi-step web research that generates detailed reports with citations.
 - 🆓 Available in the free Gemini plan with usage limits.
@@ -95,6 +99,10 @@
 **[Parallel](https://platform.parallel.ai/)** :us:
 - 📝 AI web research platform for deep research, web search, extraction, monitoring, and dataset creation with cited, structured outputs.
 - 🆓 Free to start with up to 16,000 requests across Parallel's APIs and playgrounds.
+
+**[Intern InkStone](https://discovery.intern-ai.org.cn/)** :cn:
+- 📝 AI research platform for deep research, literature discovery, and research report generation.
+- 🆓 Free web access with account-based usage limits.
 
 
 ## 🌐 Browser Agents
