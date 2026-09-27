@@ -2,11 +2,11 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Tools](https://img.shields.io/badge/Tools-145-blueviolet)
-[![Build & Deploy](https://github.com/roaryx/awesome-free-genai/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/roaryx/awesome-free-genai/actions/workflows/build-and-deploy.yml)
+[![Build & Deploy](https://github.com/roaryxy/awesome-free-genai/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/roaryxy/awesome-free-genai/actions/workflows/build-and-deploy.yml)
 
 > A curated list of generative AI agents, applications, and infrastructure with free tiers.
 
-**[Browse the interactive list &rarr;](https://roaryx.github.io/awesome-free-genai/)**
+**[Browse the interactive list &rarr;](https://roaryxy.github.io/awesome-free-genai/)**
 
 ---
 

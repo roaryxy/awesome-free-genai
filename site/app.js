@@ -22,7 +22,7 @@
   "use strict";
 
   // ── Constants ────────────────────────────────────────────
-  const GITHUB_URL = "https://github.com/roaryx/awesome-free-genai";
+  const GITHUB_URL = "https://github.com/roaryxy/awesome-free-genai";
   const BASE_PATH = normalizeBasePath(window.AFG_BASE_PATH || "");
   const ASSET_PREFIX = window.AFG_ASSET_PREFIX || "";
   const NAV = [

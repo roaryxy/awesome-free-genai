@@ -26,7 +26,7 @@ SITE_DIR = ROOT / "site"
 DIST_DIR = ROOT / "dist"
 TEMPLATE_DIR = ROOT / "templates"
 
-SITE_URL = "https://roaryx.github.io/awesome-free-genai"
+SITE_URL = "https://roaryxy.github.io/awesome-free-genai"
 BASE_PATH = "/awesome-free-genai"
 SITE_NAME = "Awesome Free GenAI"
 DEFAULT_DESCRIPTION = "A curated directory of generative AI tools with genuinely usable free tiers."
