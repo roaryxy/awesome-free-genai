@@ -1,7 +1,7 @@
 # Awesome Free GenAI
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tools](https://img.shields.io/badge/Tools-145-blueviolet)
+![Tools](https://img.shields.io/badge/Tools-146-blueviolet)
 [![Build & Deploy](https://github.com/roaryxy/awesome-free-genai/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/roaryxy/awesome-free-genai/actions/workflows/build-and-deploy.yml)
 
 > A curated list of generative AI agents, applications, and infrastructure with free tiers.
@@ -279,6 +279,10 @@
 **[Gumloop](https://www.gumloop.com/)** :us:
 - 📝 AI automation platform for building workflow agents that connect to business tools, orchestrate multi-step tasks, and run recurring processes.
 - 🆓 Free plan with 5,000 credits per month, 1 seat, 1 active trigger, and unlimited agents and flows.
+
+**[Upstage Studio](https://studio.upstage.ai/)** :globe_with_meridians:
+- 📝 Build document agents to parse, classify, extract, and analyze documents.
+- 🆓 Limited free agent runs; additional runs are billed.
 
 
 ## 🧪 Sandbox Platforms
