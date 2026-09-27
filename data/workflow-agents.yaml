@@ -23,3 +23,9 @@ agents:
     description: AI automation platform for building workflow agents that connect to business tools, orchestrate multi-step tasks, and run recurring processes.
     location: USA
     free_tier: Free plan with 5,000 credits per month, 1 seat, 1 active trigger, and unlimited agents and flows.
+
+  - name: Upstage Studio
+    url: https://studio.upstage.ai/
+    description: Build document agents to parse, classify, extract, and analyze documents.
+    location: South Korea
+    free_tier: Limited free agent runs; additional runs are billed.
