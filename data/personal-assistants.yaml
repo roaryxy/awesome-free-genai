@@ -125,3 +125,9 @@ agents:
     description: Personal action agent (Fo) that makes calls, sends emails, and coordinates with people to complete everyday errands, with human help when needed.
     location: USA
     free_tier: Free Fo Mini plan with 1,000 tasks per day; unlimited tasks on the invite-only OG Fo plan.
+
+  - name: Town
+    url: https://www.town.com/
+    description: Personal AI assistant that learns how you work, then handles email, calendar, meeting briefings, and other busywork across channels.
+    location: USA
+    free_tier: Free plan ($0, no credit card) with a personal assistant across every channel, a weekly morning briefing, all integrations, and 30 chat messages per month; includes a 7-day Pro trial.
