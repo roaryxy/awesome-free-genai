@@ -1,7 +1,7 @@
 # Awesome Free GenAI
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tools](https://img.shields.io/badge/Tools-146-blueviolet)
+![Tools](https://img.shields.io/badge/Tools-148-blueviolet)
 [![Build & Deploy](https://github.com/roaryxy/awesome-free-genai/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/roaryxy/awesome-free-genai/actions/workflows/build-and-deploy.yml)
 
 > A curated list of generative AI agents, applications, and infrastructure with free tiers.
@@ -647,6 +647,14 @@
 **[Instinct](https://instinct.com/)** :us:
 - 📝 Personal AI assistant that uses connected devices and apps to handle tasks through calls and text messages.
 - 🆓 Private access through a waitlist or member invitation, with no public pricing listed.
+
+**[Wajo](https://wajo.ai/)** :us:
+- 📝 Personal action agent (Fo) that makes calls, sends emails, and coordinates with people to complete everyday errands, with human help when needed.
+- 🆓 Free Fo Mini plan with 1,000 tasks per day; unlimited tasks on the invite-only OG Fo plan.
+
+**[Town](https://www.town.com/)** :us:
+- 📝 Personal AI assistant that learns how you work, then handles email, calendar, meeting briefings, and other busywork across channels.
+- 🆓 Free plan ($0, no credit card) with a personal assistant across every channel, a weekly morning briefing, all integrations, and 30 chat messages per month; includes a 7-day Pro trial.
 
 
 ## ✅ Task Agents
