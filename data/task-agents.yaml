@@ -23,9 +23,3 @@ agents:
     description: No-code platform for building and deploying AI agents with built-in integrations, prompt engineering, file uploads, and sandboxed testing.
     location: USA
     free_tier: Free Basic plan with 15 credits per month.
-
-  - name: Wajo
-    url: https://wajo.ai/
-    description: Action agent (Fo) that makes calls, sends emails, and coordinates with people to complete everyday errands like bookings and cancellations, with human help when needed.
-    location: USA
-    free_tier: Free Fo Mini plan with 1,000 tasks per day; unlimited tasks on the invite-only OG Fo plan.
