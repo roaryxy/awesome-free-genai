@@ -43,6 +43,7 @@ CATEGORY_ORDER = [
     "fullstack-agents",
     "multimedia-generation",
     "personal-assistants",
+    "document-ai",
 ]
 
 

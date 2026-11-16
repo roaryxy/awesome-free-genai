@@ -13,6 +13,7 @@ Thanks for your interest in contributing! This project is community-driven and w
    - `workflow-agents.yaml` — Business workflow & automation agents
    - `fullstack-agents.yaml` — AI-powered full-stack app generation agents
    - `personal-assistants.yaml` — Cloud-hosted AI personal assistants across messaging platforms
+   - `document-ai.yaml` — Document parsing, extraction, and classification platforms
 
 2. **Add your entry** to the `agents` list in the appropriate YAML file. Follow this schema:
 
