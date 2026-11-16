@@ -1,0 +1,19 @@
+# Document AI
+# Each entry should follow the schema defined in CONTRIBUTING.md
+
+category: Document AI
+icon: "📄"
+description: AI platforms that parse, extract, and classify data from documents.
+
+agents:
+  - name: Reducto
+    url: https://reducto.ai/
+    description: Document platform that parses, extracts, splits, and classifies files such as scans, tables, and spreadsheets into structured data for LLM pipelines.
+    location: USA
+    free_tier: New users get 15,000 free credits in Reducto Studio (one-time credits, not a monthly allowance).
+
+  - name: LlamaIndex
+    url: https://www.llamaindex.ai/
+    description: Applied AI lab whose LlamaParse platform parses, extracts, splits, and classifies complex documents into structured data for AI applications.
+    location: USA
+    free_tier: Free plan with 10,000 credits per month (about 1,000 pages) with pay-as-you-go for extra usage.

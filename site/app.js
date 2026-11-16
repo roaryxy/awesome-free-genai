@@ -307,6 +307,7 @@
       "multimedia-generation": "image",
       "personal-assistants": "notebook",
       "task-agents": "checks",
+      "document-ai": "notebook",
     };
     return map[slug] || "sparkles";
   }
