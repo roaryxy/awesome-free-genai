@@ -1,7 +1,7 @@
 # Awesome Free GenAI
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tools](https://img.shields.io/badge/Tools-148-blueviolet)
+![Tools](https://img.shields.io/badge/Tools-150-blueviolet)
 [![Build & Deploy](https://github.com/roaryxy/awesome-free-genai/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/roaryxy/awesome-free-genai/actions/workflows/build-and-deploy.yml)
 
 > A curated list of generative AI agents, applications, and infrastructure with free tiers.
@@ -22,6 +22,7 @@
 - [🛠️ Full Stack Agents](#full-stack-agents)
 - [🎬 Multimedia Generation](#multimedia-generation)
 - [🧑‍💼 Personal Assistants](#personal-assistants)
+- [📄 Document AI](#document-ai)
 - [✅ Task Agents](#task-agents)
 - [Contributing](#contributing)
 
@@ -655,6 +656,19 @@
 **[Town](https://www.town.com/)** :us:
 - 📝 Personal AI assistant that learns how you work, then handles email, calendar, meeting briefings, and other busywork across channels.
 - 🆓 Free plan ($0, no credit card) with a personal assistant across every channel, a weekly morning briefing, all integrations, and 30 chat messages per month; includes a 7-day Pro trial.
+
+
+## 📄 Document AI
+
+*AI platforms that parse, extract, and classify data from documents.*
+
+**[Reducto](https://reducto.ai/)** :us:
+- 📝 Document platform that parses, extracts, splits, and classifies files such as scans, tables, and spreadsheets into structured data for LLM pipelines.
+- 🆓 New users get 15,000 free credits in Reducto Studio (one-time credits, not a monthly allowance).
+
+**[LlamaIndex](https://www.llamaindex.ai/)** :us:
+- 📝 Applied AI lab whose LlamaParse platform parses, extracts, splits, and classifies complex documents into structured data for AI applications.
+- 🆓 Free plan with 10,000 credits per month (about 1,000 pages) with pay-as-you-go for extra usage.
 
 
 ## ✅ Task Agents
