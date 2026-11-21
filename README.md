@@ -1,7 +1,7 @@
 # Awesome Free GenAI
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tools](https://img.shields.io/badge/Tools-150-blueviolet)
+![Tools](https://img.shields.io/badge/Tools-151-blueviolet)
 [![Build & Deploy](https://github.com/roaryxy/awesome-free-genai/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/roaryxy/awesome-free-genai/actions/workflows/build-and-deploy.yml)
 
 > A curated list of generative AI agents, applications, and infrastructure with free tiers.
@@ -187,6 +187,10 @@
 - 📝 Alibaba Cloud's free multimodal AI assistant with reasoning, coding, image generation, and web search.
 - 🆓 Free plan with limited usage.
 
+**[QwenWork](https://qwenwork.ai/)** :cn:
+- 📝 AI office platform that plans multi-step tasks and returns reports, slide decks, web pages, and videos, on desktop and web.
+- 🆓 Free plan with a 500-credit signup bonus, 200 daily login credits, 1 GB cloud storage, and up to 5 published websites.
+
 **[MiniMax Agent](https://agent.minimax.io)** :cn:
 - 📝 AI agent platform powered by MiniMax M2 with coding, deep search, and multi-step tool-use capabilities.
 - 🆓 Free plan with limited usage.
@@ -219,17 +223,17 @@
 - 📝 Multi-model AI chat and leaderboard platform for comparing leading language models side by side.
 - 🆓 Free to use with access to multiple AI models.
 
-**[Tencent Yuanbao](https://yuanbao.tencent.com/)** :cn:
-- 📝 Tencent's general-purpose AI assistant with DeepSeek access, deep thinking, web search, file analysis, and creative chat capabilities.
-- 🆓 Free plan with limited usage.
-
-**[Tencent Hunyuan AI Studio](https://aistudio.tencent.com/)** :cn:
-- 📝 Tencent's AI studio for chat, multimodal interaction, deep search, translation, AI podcasting, and access to Hunyuan models and research tools.
-- 🆓 Free plan with limited usage.
+**[Tencent Hy](https://hy.tencent.ai/)** :cn:
+- 📝 Tencent's Hy model family, including the open-source Hy3 and Hy4 flash, also available in Tencent products such as Yuanbao and WorkBuddy.
+- 🆓 Hy3 is open source under Apache 2.0; Hy4 flash is free on WorkBuddy until November 30, with daily limits.
 
 **[Venice](https://venice.ai/)** :us:
 - 📝 Privacy-first AI assistant and API for text, image, audio, video, and character generation using open-source models.
 - 🆓 Free plan with 10 text prompts and 15 image prompts per day; mature filter cannot be disabled.
+
+**[Amazon Quick](https://quick.aws.com/)** :us:
+- 📝 AWS agentic AI assistant for chat, in-depth research, documents, web apps, and flows that automate repetitive tasks, on desktop and web.
+- 🆓 Free plan for 1 user with 1 GB of index storage; new customers also get a 30-day trial with no credit card.
 
 
 ## 🎙️ Voice Agents
