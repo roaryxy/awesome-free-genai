@@ -48,6 +48,12 @@ agents:
     location: China
     free_tier: Free plan with limited usage.
 
+  - name: QwenWork
+    url: https://qwenwork.ai/
+    description: AI office platform that plans multi-step tasks and returns reports, slide decks, web pages, and videos, on desktop and web.
+    location: China
+    free_tier: Free plan with a 500-credit signup bonus, 200 daily login credits, 1 GB cloud storage, and up to 5 published websites.
+
   - name: MiniMax Agent
     url: https://agent.minimax.io
     description: AI agent platform powered by MiniMax M2 with coding, deep search, and multi-step tool-use capabilities.
@@ -96,20 +102,20 @@ agents:
     location: USA
     free_tier: Free to use with access to multiple AI models.
 
-  - name: Tencent Yuanbao
-    url: https://yuanbao.tencent.com/
-    description: Tencent's general-purpose AI assistant with DeepSeek access, deep thinking, web search, file analysis, and creative chat capabilities.
+  - name: Tencent Hy
+    url: https://hy.tencent.ai/
+    description: Tencent's Hy model family, including the open-source Hy3 and Hy4 flash, also available in Tencent products such as Yuanbao and WorkBuddy.
     location: China
-    free_tier: Free plan with limited usage.
-
-  - name: Tencent Hunyuan AI Studio
-    url: https://aistudio.tencent.com/
-    description: Tencent's AI studio for chat, multimodal interaction, deep search, translation, AI podcasting, and access to Hunyuan models and research tools.
-    location: China
-    free_tier: Free plan with limited usage.
+    free_tier: Hy3 is open source under Apache 2.0; Hy4 flash is free on WorkBuddy until November 30, with daily limits.
 
   - name: Venice
     url: https://venice.ai/
     description: Privacy-first AI assistant and API for text, image, audio, video, and character generation using open-source models.
     location: USA
     free_tier: Free plan with 10 text prompts and 15 image prompts per day; mature filter cannot be disabled.
+
+  - name: Amazon Quick
+    url: https://quick.aws.com/
+    description: AWS agentic AI assistant for chat, in-depth research, documents, web apps, and flows that automate repetitive tasks, on desktop and web.
+    location: USA
+    free_tier: Free plan for 1 user with 1 GB of index storage; new customers also get a 30-day trial with no credit card.
