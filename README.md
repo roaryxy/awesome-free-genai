@@ -1,7 +1,7 @@
 # Awesome Free GenAI
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tools](https://img.shields.io/badge/Tools-151-blueviolet)
+![Tools](https://img.shields.io/badge/Tools-152-blueviolet)
 [![Build & Deploy](https://github.com/roaryxy/awesome-free-genai/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/roaryxy/awesome-free-genai/actions/workflows/build-and-deploy.yml)
 
 > A curated list of generative AI agents, applications, and infrastructure with free tiers.
@@ -153,6 +153,10 @@
 **[Yutori](https://yutori.com/)** :us:
 - 📝 AI web agents and APIs for browser automation, multi-agent research, and ongoing web monitoring.
 - 🆓 $5 in free credits for browser automation, research, and scouting APIs.
+
+**[Tabstack](https://tabstack.ai/)** :us:
+- 📝 Mozilla's web access API for AI agents with research, extract, generate, and browser automation endpoints.
+- 🆓 10,000 free credits for new accounts, no credit card required.
 
 
 ## 🤖 General-Purpose Agents
