@@ -71,3 +71,9 @@ agents:
     description: AI web agents and APIs for browser automation, multi-agent research, and ongoing web monitoring.
     location: USA
     free_tier: $5 in free credits for browser automation, research, and scouting APIs.
+
+  - name: Tabstack
+    url: https://tabstack.ai/
+    description: Mozilla's web access API for AI agents with research, extract, generate, and browser automation endpoints.
+    location: USA
+    free_tier: 10,000 free credits for new accounts, no credit card required.
